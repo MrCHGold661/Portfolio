@@ -10,3 +10,5 @@ This is my first .md project.
 -[My Project](PROGRAMING_LANGUAGES_TABLE.md)
 
 This is a binary truth table project.
+
+-[Binary]()
