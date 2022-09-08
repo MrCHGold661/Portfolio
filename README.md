@@ -11,4 +11,4 @@ This is my first .md project.
 
 This is a binary truth table project.
 
--[Binary]()
+-[Binary](Binary.md)
