@@ -8,3 +8,5 @@ This is my resume for the intro to softwere technologys from [Mcintosh High Scho
 This is my first .md project.
 
 -[My Project](PROGRAMING_LANGUAGES_TABLE.md)
+
+This is a binary truth table project.
