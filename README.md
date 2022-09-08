@@ -4,3 +4,7 @@ This is my resume for the intro to softwere technologys from [Mcintosh High Scho
 
 
 -[My Resume](RESUME.md)
+
+This is my first .md project.
+
+-[My Project]()
