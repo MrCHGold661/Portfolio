@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 	int x;
-        x = 2 + 4;
+        x = 1 + 4;
 	printf("%i\n", "1: ", x);
 	x = 6 * 6;
 	printf("%i\n", "2: ", x);
